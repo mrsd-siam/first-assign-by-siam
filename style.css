@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;;
-    margin: 0px;
+    margin: 0;
 }
 .sec-a-div{
     width: 40%;
@@ -94,4 +94,22 @@ h1{
 }
 .third-sec div{
     height: 80%;
+}
+#ending{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+#ending p{
+    color: skyblue;
+}
+#yt-span{
+    color: red;
+}
+#ig-span{
+    color: purple;
+}
+#fb-span{
+    color: rgb(0, 98, 255);
 }
