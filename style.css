@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;;
+    margin: 0px;
 }
 .sec-a-div{
     width: 40%;
@@ -75,19 +76,22 @@ h1{
     padding: 0px 300px;
 }
 .recipie-slides{
-    width: 10% 20%;
-    margin: 150px 50px;
-    padding: 50px 50px;
+    width: 30%;
+    margin: 150px 25px;
+    padding: 30px 30px;
     background-color: white;
-    box-shadow: 2px 2px 10px 2px black;
     border-radius: 10px;
 
     
 }
-#third-sec{
+.third-sec{
     display: flex;
-    width: 90%;
+    width: 100%;
+
 }
 .recipie-slides img{
-    width: 100%;
+    width: 80%;
+}
+.third-sec div{
+    height: 80%;
 }
