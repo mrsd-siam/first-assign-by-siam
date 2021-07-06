@@ -57,18 +57,21 @@ h1{
     
 }
 #sec-pic{
-    width: 1000px;
-    padding-right: 60px;
-    margin-left: 20px;
-    margin-top: 100px;
-    font-size: 100px;
-    padding-bottom: 0px;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 55px;
+    padding-right: 30px;
+    padding-left: 100px;
 }
+#sec-pic{
+    width: 100%;
+}
+
 .sec-right{
     padding-left: 500px;
     padding-right: 200px;
 }
-#contact-button{
+.link-button{
     margin-bottom: 25px;
 }
 .recipie-div{
@@ -112,4 +115,11 @@ h1{
 }
 #fb-span{
     color: rgb(0, 98, 255);
+}
+#contact-button{
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+.link-button{
+    margin: 25px;
 }
